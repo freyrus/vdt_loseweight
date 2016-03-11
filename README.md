@@ -1,4 +1,4 @@
-# vdt_xci
-docker for vdt_xci development
-[![Circle CI](https://circleci.com/gh/freyrus/vdt_xci.svg?style=svg)](https://circleci.com/gh/freyrus/vdt_xci)
+# vdt_loseweight
+docker for vdt_loseweight development
+[![Circle CI](https://circleci.com/gh/freyrus/vdt_loseweight.svg?style=svg)](https://circleci.com/gh/freyrus/vdt_loseweight)
 
